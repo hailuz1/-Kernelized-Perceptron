@@ -1,4 +1,4 @@
-# -Kernelized-Perceptron
+# Kernelized-Perceptron
  Perceptron with RBF and Polynomial kernels
  
  The kernalized version of the perceptron algorithm are the following
